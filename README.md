@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chrystle96
+- 👋 Hi, I’m Chrystle!
 - 👀 I’m interested in data science projects, plotly and dash, scripting in python and machine learning
 - 🌱 I’m currently learning computer vision algorithms and Deep Neural Networks 
 - 📫 How to reach me: chrystle96@gmail.com
